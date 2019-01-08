@@ -25,6 +25,14 @@ Contributions are welcome but first see [Contributing](#contributing)
 - [anseki/plain-modal](https://github.com/anseki/plain-modal) - fully customizable modal window; has basic functions only, and it does nothing about visual style of the modal window;
 
 
+
+## Modal dialog
+
+- [robinparisi/tingle](https://github.com/robinparisi/tingle) - minimalist and easy-to-use modal plugin written in pure js
+- [anseki/plain-modal](https://github.com/anseki/plain-modal) - fully customizable modal window; has basic functions only, and it does nothing about visual style of the modal window;
+
+
+
 ## Select box (combo box)
 
 - [selectize/selectize.js](https://github.com/selectize/selectize.js): the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc;
