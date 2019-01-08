@@ -28,7 +28,7 @@ Contributions are welcome but first see [Contributing](#contributing)
 
 ## Modal dialog
 
-- [selectize/selectize.js](https://github.com/selectize/selectize.js) - xxx
+- [selectize/selectize.js](https://github.com/selectize/selectize.js) - the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc
 - [select2/select2](https://github.com/select2/select2) - yyy
 
 
