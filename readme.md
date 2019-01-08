@@ -28,8 +28,8 @@ Contributions are welcome but first see [Contributing](#contributing)
 
 ## Modal dialog
 
-- [robinparisi/tingle](https://github.com/robinparisi/tingle) - minimalist and easy-to-use modal plugin written in pure js
-- [anseki/plain-modal](https://github.com/anseki/plain-modal) - fully customizable modal window; has basic functions only, and it does nothing about visual style of the modal window;
+- [selectize/selectize.js](https://github.com/selectize/selectize.js) - minimalist and easy-to-use modal plugin written in pure js
+- [select2/select2](https://github.com/select2/select2) - fully customizable modal window; has basic functions only, and it does nothing about visual style of the modal window;
 
 
 
