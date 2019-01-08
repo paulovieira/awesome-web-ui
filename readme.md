@@ -27,10 +27,10 @@ Contributions are welcome but first see [Contributing](#contributing)
 
 ## Select box (combo box)
 
-- [selectize/selectize.js](https://github.com/selectize/selectize.js) - the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc;
-- [select2/select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes; supports searching, remote data sets, and infinite scrolling of results;
-- [jshjohnson/Choices](https://github.com/jshjohnson/Choices) - vanilla and configurable select box/text input plugin; similar to Select2 and Selectize but without the jQuery dependency;
-- [harvesthq/chosen](https://github.com/harvesthq/chosen) - a library for making long, unwieldy select boxes more friendly;
+- [selectize/selectize.js](https://github.com/selectize/selectize.js): the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc;
+- [select2/select2](https://github.com/select2/select2): a jQuery based replacement for select boxes; supports searching, remote data sets, and infinite scrolling of results;
+- [jshjohnson/Choices](https://github.com/jshjohnson/Choices): vanilla and configurable select box/text input plugin; similar to Select2 and Selectize but without the jQuery dependency;
+- [harvesthq/chosen](https://github.com/harvesthq/chosen): a library for making long, unwieldy select boxes more friendly;
 
 
 
