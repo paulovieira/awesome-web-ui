@@ -26,13 +26,47 @@ Contributions are welcome but first see [Contributing](#contributing)
 
 
 
-
 ## Select box (combo box)
 
 - [selectize/selectize.js](https://github.com/selectize/selectize.js): the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc;
 - [select2/select2](https://github.com/select2/select2): a jQuery based replacement for select boxes; supports searching, remote data sets, and infinite scrolling of results;
 - [jshjohnson/Choices](https://github.com/jshjohnson/Choices): vanilla and configurable select box/text input plugin; similar to Select2 and Selectize but without the jQuery dependency;
 - [harvesthq/chosen](https://github.com/harvesthq/chosen): a library for making long, unwieldy select boxes more friendly;
+
+
+
+## Icon collections
+
+
+
+### Articles
+
+- [What is the best icon library?](https://www.quora.com/What-is-the-best-icon-library)
+- [The Best Icons Resources](https://medium.muz.li/the-best-icons-resources-6430cf5227e8)
+
+
+### Aggregators
+
+- [The Noun Project](https://thenounproject.com/)
+- [FlatIcon](https://www.flaticon.com/)
+- [IconFinder](https://www.iconfinder.com/)
+
+
+### Individual Collections
+
+- [Nucleo](https://nucleoapp.com/)
+- [Streamline](https://streamlineicons.com/)
+- [IconsMind](https://iconsmind.com)
+- [Icons8](https://icons8.com/icons)
+- [Futuramo](https://futuramo.com/apps/icons)
+- [Dutch Icon Unlimited](http://unlimited.dutchicon.com)
+- [Evil Icons](http://evil-icons.io/)
+- [Github Octicons](https://octicons.github.com/)
+- [Animaticons](http://animaticons.co)
+
+	
+
+
 
 
 
