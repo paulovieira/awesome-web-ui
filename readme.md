@@ -43,7 +43,7 @@ Contributions are welcome but first see [Contributing](#contributing)
 
 - [What is the best icon library?](https://www.quora.com/What-is-the-best-icon-library)
 - [The Best Icons Resources](https://medium.muz.li/the-best-icons-resources-6430cf5227e8)
-
+- [The Big List of Flat Icons & Icon Fonts](https://css-tricks.com/flat-icons-icon-fonts/)
 
 ### Aggregators
 
