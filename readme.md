@@ -50,6 +50,7 @@ Contributions are welcome but first see [Contributing](#contributing)
 - [The Noun Project](https://thenounproject.com/)
 - [FlatIcon](https://www.flaticon.com/)
 - [IconFinder](https://www.iconfinder.com/)
+- [Iconscout](https://iconscout.com/)
 
 
 ### Individual Collections
@@ -63,6 +64,7 @@ Contributions are welcome but first see [Contributing](#contributing)
 - [Evil Icons](http://evil-icons.io/)
 - [Github Octicons](https://octicons.github.com/)
 - [Animaticons](http://animaticons.co)
+- [Unicons](https://iconscout.com/unicons)
 
 	
 
